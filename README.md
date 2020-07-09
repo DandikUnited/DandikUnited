@@ -1,4 +1,4 @@
-![😢](dandikunited.png)
+![😢](https://raw.githubusercontent.com/DandikUnited/DandikUnited/master/89623e0f5cd9700c0a9b16f0ee10f183b5b9d008f00be7c527592d6a.png)
 
 <!--
 **DandikUnited/DandikUnited** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
